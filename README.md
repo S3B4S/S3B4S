@@ -10,18 +10,18 @@
 | 🎹| Learning to play the keyboard |
 
 ## Languages & tools
-![JavaScript](https://img.shields.io/badge/-JavaScript-efd81d?logo=javascript&logoColor=333333&style=for-the-badge)
-![TypeScript](https://img.shields.io/badge/-TypeScript-2f74c0?logo=typescript&logoColor=white&style=for-the-badge)
-![Node.js](https://img.shields.io/badge/-Node.js-659a60?logo=node.js&logoColor=white&style=for-the-badge)
-![React](https://img.shields.io/badge/-React-61dafb?logo=react&logoColor=333333&style=for-the-badge)
-![Vue](https://img.shields.io/badge/-Vue-3fb27f?logo=vue.js&logoColor=white&style=for-the-badge)
-
-![Haskell](https://img.shields.io/badge/-Haskell-5f5286?logo=haskell&style=for-the-badge)
-
-![Python](https://img.shields.io/badge/-Python-3973a3?logo=python&logoColor=white&style=for-the-badge)
-![Java](https://img.shields.io/badge/-Java-f0931c?logo=java&style=for-the-badge)
-
-![Microsoft Azure](https://img.shields.io/badge/-Microsoft%20Azure-2070b2?logo=microsoftazure&logoColor=white&style=for-the-badge)
+<!--   #### Web -->
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-efd81d?logo=javascript&logoColor=333333&style=for-the-badge)
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-2f74c0?logo=typescript&logoColor=white&style=for-the-badge)
+  ![Node.js](https://img.shields.io/badge/-Node.js-659a60?logo=node.js&logoColor=white&style=for-the-badge)
+  ![React](https://img.shields.io/badge/-React-61dafb?logo=react&logoColor=333333&style=for-the-badge)
+  ![Vue](https://img.shields.io/badge/-Vue-3fb27f?logo=vue.js&logoColor=white&style=for-the-badge)
+  
+<!--   #### Additional -->
+  ![Haskell](https://img.shields.io/badge/-Haskell-5f5286?logo=haskell&style=for-the-badge)
+  ![Python](https://img.shields.io/badge/-Python-3973a3?logo=python&logoColor=white&style=for-the-badge)
+  ![Java](https://img.shields.io/badge/-Java-f0931c?logo=java&style=for-the-badge)
+  ![Microsoft Azure](https://img.shields.io/badge/-Microsoft%20Azure-2070b2?logo=microsoftazure&logoColor=white&style=for-the-badge)
 
 ## Favourite shows & movies
 - [Serial Experiments Lain](https://myanimelist.net/anime/339/Serial_Experiments_Lain)
