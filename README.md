@@ -2,19 +2,19 @@
 
 # S3B4S
 
-## About me
-He/him
+|   |  About me  |
+| :-- | :-- |
+| 👨| He/him |
+| 🇳🇱 | From the Netherlands |
+| 🎓| Studying Computer Science Engineering at the Technical University of Delft |
+| 🔍| Curious about functional programming and Haskell |
 
-- 🇳🇱 From the netherlands
-- 🎓 Currently studying Computer Science Engineering at the Technical University of Delft
 
-Currently curious about functional programming and Haskell!
-
-## Favourite shows & movies:
-- Serial Experiments Lain
-- Neon Genesis Evangelion
-- A Silent Voice
-- Chernobyl
+## Favourite shows & movies
+- [Serial Experiments Lain](https://myanimelist.net/anime/339/Serial_Experiments_Lain)
+- [Neon Genesis Evangelion](https://myanimelist.net/anime/30/Neon_Genesis_Evangelion?q=neon%20genes&cat=anime)
+- [A Silent Voice](https://myanimelist.net/anime/28851/Koe_no_Katachi?q=koe%20no%20katachi&cat=anime)
+- [Chernobyl](https://www.imdb.com/title/tt7366338/)
 
 <!--
 **S3B4S/S3B4S** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
