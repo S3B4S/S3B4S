@@ -5,6 +5,7 @@
 | 👨| He/him |
 | 🇳🇱 | From the Netherlands |
 | 🎓| Studying Computer Science Engineering at the Technical University of Delft |
+| 🕑| GMT+2, [check my current time](https://www.zeitverschiebung.net/en/city/2759794) |
 | 🔍| Curious about functional programming and Haskell |
 
 
