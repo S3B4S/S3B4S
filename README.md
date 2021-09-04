@@ -14,7 +14,7 @@ Currently curious about functional programming and Haskell!
 - A Silent Voice
 - Chernobyl
 
-![Lain](https://archive-media-1.nyafuu.org/w/image/1456/45/1456459382253.gif)
+![lain](https://user-images.githubusercontent.com/17083334/132076649-deb6ae63-22b4-4edb-a53a-5a9afbb8e43f.gif)
 
 <!--
 **S3B4S/S3B4S** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
