@@ -1,3 +1,5 @@
+![lain](https://user-images.githubusercontent.com/17083334/132076649-deb6ae63-22b4-4edb-a53a-5a9afbb8e43f.gif)
+
 # S3B4S
 
 ## About me
@@ -13,8 +15,6 @@ Currently curious about functional programming and Haskell!
 - Neon Genesis Evangelion
 - A Silent Voice
 - Chernobyl
-
-![lain](https://user-images.githubusercontent.com/17083334/132076649-deb6ae63-22b4-4edb-a53a-5a9afbb8e43f.gif)
 
 <!--
 **S3B4S/S3B4S** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
